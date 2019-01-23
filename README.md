@@ -6,9 +6,6 @@
 [![Tiger do jawOpen](https://img.youtube.com/vi/_5OxQwNUuQ4/0.jpg)](https://www.youtube.com/watch?v=_5OxQwNUuQ4)
 
 
-Animoji on Android(Comming Soon)
-
-
 Q: What is the project AnimojiOnAndroid(VividFaces Android version) for?
 A: Android version of iOS’s animoji.
 
@@ -20,3 +17,6 @@ A: The format of Collada had been developed by khronos community for more than a
 
 Q: What the benefit of the project VividFaces Android?
 A: The apple’s animoji 3D model can be using and morphing animation is implemented on android phones. The cache mechanism is created which 3D model was cached as OPENGL ES data after first loading so as to shorten the loading process of minutes to seconds.
+
+
+Animoji on Android(Comming Soon)
