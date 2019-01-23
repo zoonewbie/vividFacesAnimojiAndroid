@@ -7,7 +7,7 @@
 
 
 ## Q: What is the project AnimojiOnAndroid(VividFaces Android version) for?
-## A: Android version of iOS’s animoji.
+### A: Android version of iOS’s animoji.
 
 ## Q: What is the status of the project currently?
 ## A: Collada models showing, morphing animation done.
