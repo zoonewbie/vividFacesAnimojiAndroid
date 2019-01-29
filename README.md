@@ -22,4 +22,5 @@
 ### A: The apple’s animoji 3D models can be using and morphing animation is implemented on android phones. The cache mechanism is created which 3D model was cached as OPENGL ES data after first loading so as to shorten the loading process of minutes to seconds.
 
 
-Animoji on Android(Comming Soon)
+## Q: What is the current status of project?
+### A: First upload of the demo workspace have been commited. There are known bugs and I will fix them after several weeks later. You can download the apk directly and run it on your android phone (Safe. Only permission of R/W Storage is needed for saving cached binary of Collada). 
